@@ -6,9 +6,6 @@ The website is built with simple **HTML & CSS** and hosted using **AWS S3 Static
 
 ---
 
-## 🚀 Live Demo
-👉 https://mywebapp-bucket-4a9914bbadb0b95c.s3.eu-north-1.amazonaws.com/index.html
-
 ---
 
 ## 🛠️ Tech Stack
