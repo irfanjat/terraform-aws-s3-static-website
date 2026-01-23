@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a **static website on AWS S3** using **Terraform (Infrastructure as Code)**.
 
-The website is built with simple **HTML & CSS** and hosted using **AWS S3 Static Website Hosting**, fully automated via Terraform.
+The website is built with simple **HTML & CSS** and hosted using **AWS S3 Static Website Hosting**, fully automated via Terraform.!
 
 ---
 
