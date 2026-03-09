@@ -1,6 +1,6 @@
 # 🌐 Static Website on AWS S3 using Terraform
 
-> Deploy a static website on AWS S3 fully automated with Terraform (Infrastructure as Code).
+> Deploy a static website on AWS S3 fully automated with Terraform (Infrastructure as Code)
 
 ---
 
