@@ -10,7 +10,7 @@ This project demonstrates how to deploy a **static website on AWS S3** using **T
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Technology | Purpose |
 |---|---|
