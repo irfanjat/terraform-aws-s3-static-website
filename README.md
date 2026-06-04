@@ -64,7 +64,7 @@ Terraform → S3 Bucket Created → Static Hosting Enabled → Bucket Policy App
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/irfanjat/proj-Static-Website.git
+git clone https://github.com/irfanjat/terraform-aws-s3-static-website.git
 cd proj-Static-Website
 ```
 
